@@ -7,5 +7,5 @@
     />
 
     <script src="client.lua" type="client"/>
-    <file src="models/.gitignore" type="client"/>
+    <file src="models/.gitkeep" type="client"/>
 </meta>
