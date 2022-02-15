@@ -1,0 +1,11 @@
+<meta>
+    <info
+        name="Model loader"
+        description="Загрузка моделей из кэша по команде."
+        author="thejdmego#7058"
+        type="script"
+    />
+
+    <script src="client.lua" type="client"/>
+    <file src="models/.gitignore" type="client"/>
+</meta>
